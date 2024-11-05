@@ -1,4 +1,5 @@
 a = 2
 b = 3
+penjumlahan = a+b
 
-print(a+3)
+print(penjumlahan)
