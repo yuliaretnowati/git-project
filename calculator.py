@@ -8,6 +8,13 @@ print(penjumlahan)
 print(perkalian)
 print(pembagian)
 
+
 panjang = 10
 lebar = 2
-luasPersegi = panjang*lebar
+
+alas = 6
+tinggi = 12
+luasSegitiga = 0.5 * alas * tinggi
+
+print(luasSegitiga)
+
