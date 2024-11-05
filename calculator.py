@@ -8,3 +8,6 @@ print(penjumlahan)
 print(perkalian)
 print(pembagian)
 
+panjang = 10
+lebar = 2
+luasPersegi = panjang*lebar
