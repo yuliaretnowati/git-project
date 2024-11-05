@@ -8,3 +8,9 @@ print(penjumlahan)
 print(perkalian)
 print(pembagian)
 
+alas = 6
+tinggi = 12
+luasSegitiga = 0.5 * alas * tinggi
+
+print(luasSegitiga)
+
